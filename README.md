@@ -1,41 +1,53 @@
-# 💻 Interface de Login
+# 💻 Projeto: Interface de Login Responsiva
 
-Este é um projeto de **interface de login responsiva** desenvolvido com **HTML** e **CSS**, com um visual moderno e limpo. Ideal para treinar conceitos de front-end, estilização com CSS puro e organização de layout.
+Desenvolvido com HTML e CSS, este projeto apresenta uma **interface de login moderna e responsiva**, ideal para praticar habilidades de front-end. O layout traz um visual limpo, com fundo desfocado e componentes estilizados com foco em usabilidade.
 
 ![preview](./img/img.jpg)
 
-## 🚀 Tecnologias
+---
+
+## 🚀 Tecnologias utilizadas
 
 - HTML5
 - CSS3
-- Google Fonts
+- Google Fonts (Poppins)
 - Boxicons
+
+---
 
 ## 🎯 Funcionalidades
 
-- Formulário de login com campos de e-mail e senha
-- Botão "Lembrar senha" com checkbox
-- Link para recuperação de senha
-- Link para cadastro de novo usuário
-- Design com **fundo em blur** e efeito de sombra
-- Estilização moderna e responsiva
+- Campo de login com e-mail e senha
+- Checkbox "Lembrar senha"
+- Link de "Esqueci a senha"
+- Link para registro de novo usuário
+- Design responsivo com fundo em blur
+- Efeitos de foco e hover nos elementos
+
+---
 
 ## 🌐 Acesse o projeto online
 
-👉 [Clique aqui para ver o projeto rodando no GitHub Pages](https://danidev-creator.github.io/Login-page/)
+🔗 [Clique aqui para abrir no GitHub Pages](https://danidev-creator.github.io/Login-page/)
+
+---
 
 ## 📂 Estrutura de pastas
 
+
+---
+
 ## ✨ Preview
 
-Você pode ver a aparência do layout direto na publicação do GitHub Pages ou personalizar à vontade no seu editor!
+Você pode ver a interface em funcionamento acessando o link acima ou abrindo o projeto em seu editor local.
 
 ---
 
 ## 📌 Observações
 
-- Este projeto é **somente front-end**, sem integração com backend.
-- Feito com fins de estudo e prática de HTML e CSS.
+- Projeto focado em prática de front-end
+- Não possui integração com backend
+- Totalmente editável e reutilizável
 
 ---
 
